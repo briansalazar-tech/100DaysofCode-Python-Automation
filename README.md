@@ -6,3 +6,5 @@ Where this project differs in that project, this project composes and sends an e
 
 To get this program to send an email out daily, I passed it through a .ps1 file and ran it through Windows Task Scheduler. 
 
+Day 93 (web scraping script), is another project that I passed through a .ps1 file to send out a daily email. That project lists homes for a specified area that match a search criteria that is defined in the query.
+
